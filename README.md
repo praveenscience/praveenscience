@@ -12,4 +12,4 @@ I am a React JS Specialist, a Blockchain Enthusiast, an Author of tech books, a 
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
-![Praveen GitHub statistic](https://github-readme-stats.vercel.app/api?username=praveenscience&show_icons=true&line_height=20&theme=tokyonight")
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=praveenscience&show_icons=true&line_height=20&theme=tokyonight" /></p>
