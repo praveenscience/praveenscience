@@ -1,6 +1,7 @@
 [![MastHead](https://raw.githubusercontent.com/praveenscience/praveenscience/master/mast.png)](https://praveen.science)
 
-# Hello there! 👋🏻
+# Hello there! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
+<br />
 
 I am Praveen Kumar 🙋🏻‍♂️, a Cook, Cat Lover, Front End Architect, Web Developer Evangelist & Cloud Computing Consultant.
 
@@ -14,4 +15,6 @@ I am a React JS Specialist, a Blockchain Enthusiast, an Author of tech books, a 
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Praveen GitHub statistic](https://github-readme-stats.vercel.app/api?username=praveenscience&show_icons=true)
+
