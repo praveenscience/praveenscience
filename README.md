@@ -17,3 +17,7 @@ I am a React JS Specialist, a Blockchain Enthusiast, an Author of tech books, a 
 ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=praveenscience&show_icons=true)
 
 ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=praveenscience)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenscience)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
