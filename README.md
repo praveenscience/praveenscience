@@ -6,7 +6,12 @@ I am Praveen Kumar 🙋🏻‍♂️, a Cook, Cat Lover, Front End Architect, We
 
 I am a React JS Specialist, a Blockchain Enthusiast, an Author of tech books, a Speaker, a FullStack JavaScript Developer and I hold the top 0.05% Overall position in Stack Overflow.
 
-### Check out my latest Live Streams on my [YouTube Channel](https://www.youtube.com/praveenscience?sub_confirmation=1).
+### Check out my latest Live Streams on my [YouTube Channel](https://www.youtube.com/praveenscience?sub_confirmation=1). Here are some of my active projects:
+
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
+|-------------|-------------------|---|---|
+| [**DevTernShip**](https://github.com/praveenscience/Internship-LMS-FrontEnd) | [![GitHub issues](https://img.shields.io/github/issues/praveenscience/Internship-LMS-FrontEnd?color=green&logo=github&style=flat)](https://github.com/praveenscience/Internship-LMS-FrontEnd/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/praveenscience/Internship-LMS-FrontEnd?style=flat&logo=github)](https://github.com/praveenscience/Internship-LMS-FrontEnd/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/praveenscience/Internship-LMS-FrontEnd?style=flat&color=critical&logo=github)](https://github.com/praveenscience/Internship-LMS-FrontEnd/pulls?q=is%3Apr+is%3Aclosed)  |
+| [**Hacktoberfest-Project-Ideas**](https://github.com/praveenscience/Hacktoberfest-Project-Ideas/) | [![GitHub issues](https://img.shields.io/github/issues/praveenscience/Hacktoberfest-Project-Ideas?color=green&logo=github&style=flat)](https://github.com/praveenscience/Hacktoberfest-Project-Ideas/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/praveenscience/Hacktoberfest-Project-Ideas?style=flat&logo=github)](https://github.com/praveenscience/Hacktoberfest-Project-Ideas/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/praveenscience/Hacktoberfest-Project-Ideas?style=flat&color=critical&logo=github)](https://github.com/praveenscience/Hacktoberfest-Project-Ideas/pulls?q=is%3Apr+is%3Aclosed)   |
 
 ## Connect with Me 🤝🏻
 
