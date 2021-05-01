@@ -8,6 +8,8 @@ I am a React JS Specialist, a Blockchain Enthusiast, an Author of tech books, a 
 
 ### Check out my latest Live Streams on my [YouTube Channel](https://www.youtube.com/praveenscience?sub_confirmation=1). Here are some of my active projects:
 
+[![Praveen's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=praveenscience&theme=xcode)](https://git.io/praveenscience)
+
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
 | [**DevTernShip**](https://github.com/praveenscience/Internship-LMS-FrontEnd) | [![GitHub issues](https://img.shields.io/github/issues/praveenscience/Internship-LMS-FrontEnd?color=green&logo=github&style=flat)](https://github.com/praveenscience/Internship-LMS-FrontEnd/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/praveenscience/Internship-LMS-FrontEnd?style=flat&logo=github)](https://github.com/praveenscience/Internship-LMS-FrontEnd/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/praveenscience/Internship-LMS-FrontEnd?style=flat&color=critical&logo=github)](https://github.com/praveenscience/Internship-LMS-FrontEnd/pulls?q=is%3Apr+is%3Aclosed)  |
