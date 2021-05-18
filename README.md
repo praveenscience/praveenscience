@@ -1,6 +1,6 @@
 [![MastHead](https://raw.githubusercontent.com/praveenscience/praveenscience/master/mast.png)](https://praveen.science)
 
-# Hello there! 👋🏻
+# Hello there! 👋🏻 I am Praveen Kumar! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 
 I am Praveen Kumar 🙋🏻‍♂️, a Cook, Cat Lover, Front End Architect, Web Developer Evangelist & Cloud Computing Consultant.
 
