@@ -24,3 +24,10 @@ I am a React JS Specialist, a Blockchain Enthusiast, an Author of tech books, a 
 | ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=praveenscience&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenscience) |
 | --- | --- |
 | ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=praveenscience) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
+
+
+Watch my contribution graph being eaten by a Snake! 🐍
+
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
+
+<sup>Credits for Snake: [Arnav Sharma](https://github.com/arnav1776).</sup>
