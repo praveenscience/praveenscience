@@ -29,5 +29,3 @@ I am a React JS Specialist, a Blockchain Enthusiast, an Author of tech books, a 
 Watch my contribution graph being eaten by a Snake! 🐍
 
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
-
-<sup>Credits for Snake: <a href="https://github.com/arnav1776/" target="_blank">Arnav Sharma</a>.</sup>
