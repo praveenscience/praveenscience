@@ -8,7 +8,7 @@ I am a React JS Specialist, a Blockchain Enthusiast, an Author of tech books, a 
 
 ### Check out my latest Live Streams on my [YouTube Channel](https://www.youtube.com/praveenscience?sub_confirmation=1). Here are some of my active projects:
 
-[![Praveen's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=praveenscience)](https://git.io/J1Ycx)
+[![Praveen's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=praveenscience)](https://git.io/J1Ycx)
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
