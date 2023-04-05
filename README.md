@@ -23,7 +23,7 @@ I am a React JS Specialist, a Blockchain Enthusiast, an Author of tech books, a 
 
 [![@praveen's Holopin board](https://holopin.me/praveen)](https://holopin.io/@praveen)
 
-### Dino <img src="https://i.imgur.com/2AGajNs.png" alt="Chrome Dino" />
+### Dino <img src="https://i.imgur.com/2AGajNs.png" alt="Chrome Dino" width="24" />
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
